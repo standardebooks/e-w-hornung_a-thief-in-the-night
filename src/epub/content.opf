@@ -64,11 +64,12 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Glyn Philpot</dc:contributor>
 		<meta property="file-as" refines="#artist">Philpot, Glyn</meta>
-		<meta property="schema:alternateName" refines="#author">Glyn Warren Philpot</meta>
+		<meta property="schema:alternateName" refines="#artist">Glyn Warren Philpot</meta>
 		<link href="https://en.wikipedia.org/wiki/Glyn_Philpot" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n85225086.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
